@@ -1,0 +1,6 @@
+[submodule "CP-L1-L2"]
+	path = CP-L1-L2
+	url = https://github.com/KrzysztofT415/CP-L1-L2
+[submodule "CP-L3-L4"]
+	path = CP-L3-L4
+	url = https://github.com/KrzysztofT415/CP-L3-L4
